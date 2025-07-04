@@ -42,7 +42,6 @@ This project allows users to:
 | Endpoint                   | Description            |
 |----------------------------|------------------------|
 | POST `/api/auth/register/` | Register new user      |
-| POST `/api/auth/login/`    | Login & get tokens     |
 | POST `/api/auth/refresh/`  | Refresh token          |
 
 ### 💸 Expense/Income
